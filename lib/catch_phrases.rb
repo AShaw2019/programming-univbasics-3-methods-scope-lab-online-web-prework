@@ -17,5 +17,5 @@ end
 def any_phrase(phrase)
   it = "takes in an argument and puts out the catch phrase"
   phrase = "Do A Barrel Roll!"
-  puts "#{it}"
+  puts "#{phrase}"
 end
